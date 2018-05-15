@@ -1,0 +1,1 @@
+{"title":"Hoisting","message":"Before code is run it is (Lexed)\n\nIf a variable is not properly declared it is hoisted to the top of the scope.\n\nFunctions declarations are hoisted to the top of the scope.\n\n","id":"46b5830b-e2cb-4602-af92-d7c787c28bc5","date":"2018-05-15T23:25:35.018Z"}
