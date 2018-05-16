@@ -1,0 +1,1 @@
+{"title":"Scopes","message":"// var is function scoped\n// let and const are blocked scoped\n// IIFE: Immediately invoked function expression\n// Closure: Function in a function accessing the value in an outer function\n//","id":"da3b78d9-a612-4716-900a-659bc1bf6ab7","date":"2018-05-16T23:55:48.034Z"}
